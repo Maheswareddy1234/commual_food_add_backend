@@ -1,0 +1,11 @@
+[31-Dec-2025 08:20:16 Europe/Berlin] Add to cart received: {"customer_id":4,"dish_id":25,"instructions":"","oil_level":"High","portion":"Regular","quantity":1,"salt_level":"Normal","spice_level":"Spicy"}
+[31-Dec-2025 08:37:46 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Low","spice_level":"Medium"}
+[31-Dec-2025 08:37:51 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Low","spice_level":"Medium"}
+[31-Dec-2025 08:46:30 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":2,"salt_level":"Normal","spice_level":"Medium"}
+[31-Dec-2025 08:48:56 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Normal","spice_level":"Medium"}
+[31-Dec-2025 08:49:00 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Normal","spice_level":"Medium"}
+[31-Dec-2025 08:49:08 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Normal","spice_level":"Medium"}
+[31-Dec-2025 08:53:16 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Low","spice_level":"Medium"}
+[31-Dec-2025 08:53:23 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":25,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Low","spice_level":"Medium"}
+[31-Dec-2025 09:08:20 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":17,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Normal","spice_level":"Medium"}
+[31-Dec-2025 09:08:32 Europe/Berlin] Add to cart received: {"customer_id":7,"dish_id":17,"instructions":"","oil_level":"Medium","portion":"Regular","quantity":1,"salt_level":"Normal","spice_level":"Medium"}
